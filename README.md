@@ -1,12 +1,8 @@
-# Hi there, I'm Ian 👋
+# Hi there, I'm Jeremy 👋
 
 <a href="http://google.com">
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=JeremySun1224&show_icons=true&title_color=ff8f1c&icon_color=250E62&text_color=193549&bg_color=f2fcff" alt="JeremySun1224's github stats" />
 </a>
-
-
-
-## 
 
 
 
